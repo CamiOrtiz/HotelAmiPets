@@ -1,0 +1,8 @@
+pillow
+django-admin-interface
+django-crispy-forms
+crispy-bootstrap5
+
+requests
+reportlab
+django-rest-framework
